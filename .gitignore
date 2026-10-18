@@ -213,3 +213,20 @@ week6/*/*.jsonl
 week6/*.pth
 week6/*.joblib
 week8/*.pth
+
+# Course training material stays on this machine; do not publish to GitHub.
+/week1/
+/week2/
+/week3/
+/week4/
+/week5/
+/week6/
+/week7/
+/week8/
+/community-contributions/
+/extras/
+/guides/
+/setup/
+/assets/
+/environment.yml
+/LICENSE
